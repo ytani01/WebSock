@@ -1,4 +1,2 @@
 Click
-six
-websocket-client
 websocket-server
