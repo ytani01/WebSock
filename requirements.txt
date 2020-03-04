@@ -1,5 +1,4 @@
 Click
-pkg-resources
 six
 websocket-client
 websocket-server
